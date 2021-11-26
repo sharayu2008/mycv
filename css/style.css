@@ -1,0 +1,27 @@
+body{
+  background-color:beige
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 1px;
+  border-color: red;
+  size:5px
+
+
+}
+img{
+  height:300px
+}
+h3{
+  color:#8A8635;
+}
+h1{
+  color:#8A8635;
+}
+/*************class selectors*******************/
+.tableclass{
+  font-style: italic;
+  border: 2;
+  border-color: green;
+}
